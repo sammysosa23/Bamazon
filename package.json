@@ -1,0 +1,32 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like storefront ultilizing MySQL Database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammysosa23/Bamazon.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Database",
+    "Node.js"
+  ],
+  "author": "Sam Terrazas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammysosa23/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sammysosa23/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10",
+    "table": "^5.2.3"
+  }
+}

@@ -28,6 +28,10 @@ The customer view of the application takes in orders from the uswers and deplete
 
 ![bamazoncustomer](https://user-images.githubusercontent.com/44001036/52962046-480ef300-336a-11e9-93f0-910d3c466949.gif)
 
+![customer](https://user-images.githubusercontent.com/44001036/52965017-ce7b0300-3371-11e9-8ee5-5cf435459572.png)
+![customer1](https://user-images.githubusercontent.com/44001036/52965018-ce7b0300-3371-11e9-9939-30cfd1af7c72.png)
+
+
 - - - 
 
 Manager View
